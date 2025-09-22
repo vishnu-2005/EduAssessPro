@@ -1,0 +1,10 @@
+diff --git a/build_output/m2e-wtp/web-resources/.gitignore b/build_output/m2e-wtp/web-resources/.gitignore
+new file mode 100644
+index 0000000..3385916
+--- /dev/null
++++ b/build_output/m2e-wtp/web-resources/.gitignore
+@@ -0,0 +1 @@
++/META-INF/
+diff --git a/patchfile.diff b/patchfile.diff
+new file mode 100644
+index 0000000..e69de29
